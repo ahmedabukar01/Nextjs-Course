@@ -14,3 +14,15 @@ a {
 * {
   box-sizing: border-box;
 }
+
+ul{
+  list-style-type: none;
+}
+li{
+  display: inline-block;
+}
+.head-cont{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+}
